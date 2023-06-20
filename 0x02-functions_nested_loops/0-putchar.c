@@ -14,4 +14,5 @@ int main(void)
 	_putcahr('h');
 	_putcahr('a');
 	_putcahr('r');
+	return (0);
 }
