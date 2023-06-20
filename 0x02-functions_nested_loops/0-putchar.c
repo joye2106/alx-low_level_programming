@@ -1,19 +1,17 @@
 #include "main.h"
 /**
- * main - entry block
- * @void: no argument
- * Return: 0
- **/
+ * main - entry point
+ * description: 'prints _putchar to stdout'
+ * return: always 0
+ */
 int main(void)
 {
-	char ermias[] = "_putchar";
-
-	int c;
-
-	for (c = 0; c < 8; c++)
-	{
-		_putchar(yoseph[c]);
-	}
-	_putchar('\n');
-	return (0);
+	_putcahr('_');
+	_putcahr('p');
+	_putcahr('u');
+	_putcahr('t');
+	_putcahr('c');
+	_putcahr('h');
+	_putcahr('a');
+	_putcahr('r');
 }
