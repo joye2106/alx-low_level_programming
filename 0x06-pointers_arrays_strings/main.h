@@ -1,5 +1,5 @@
-#ifndef "main.h"
-#define "main.h"
+#ifndef INV_HOLBERTON_H
+#define INV_HOLBERTON_H
 
 int _putchar(char);
 char *_strcat(char *dest, char *src);
