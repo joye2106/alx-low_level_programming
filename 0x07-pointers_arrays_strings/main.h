@@ -1,5 +1,5 @@
-#ifndef "main.h"
-#define "main.h"
+#ifndef MAIN.H
+#define MAIN.H
 
 int _putchar(char);
 char *_memset(char *s, char b, unsigned int n);
